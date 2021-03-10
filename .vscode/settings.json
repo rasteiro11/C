@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "TUTINHA.C": "cpp",
-        "ws2def.h": "c",
-        "winsock2.h": "c",
-        "string.h": "c"
-    },
-    "code-runner.terminalRoot": "/cygwin64/bin"
-}
